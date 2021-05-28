@@ -1,0 +1,16 @@
+body {
+background-color:hsl(0, 0%, 81%);
+}
+p{
+color: rgb(0, 0, 0);
+text-align: left;
+text-indent: 40px;
+line-height: 1.4;
+word-spacing: 10px;
+text-shadow: 3px 2px 2px rgb(0, 0, 0);
+}
+a{
+    text-decoration:none;
+     text-transform: uppercase;
+    letter-spacing: 3px;   
+}

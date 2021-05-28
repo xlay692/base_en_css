@@ -1,0 +1,13 @@
+body {
+background-color:hsl(0, 3%, 70%);
+}
+.caja{
+    margin: 8px;
+    padding: 8px;
+    border-style:solid;
+    border-width: 2px;
+    border-color: rgb(153, 24, 24);
+    border-top: darkred;
+    border-left: 4px solid rgb(94, 14, 14);
+    background-color: rgb(163, 68, 68);
+}

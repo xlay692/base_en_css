@@ -1,0 +1,22 @@
+body {
+background-color:hsl(0, 0%, 81%);
+}
+a {
+   color:hotpink;
+   background-color: rgb(14, 53, 138);
+}
+a:link {
+  color: pink;
+  text-decoration:none;
+}
+a:visited {
+  color: blue;
+}
+a:active {
+  color: black;
+}
+a:hover {
+  color:blue;
+  text-decoration: underline;
+  background-color:rgb(14, 27, 146) ;
+}

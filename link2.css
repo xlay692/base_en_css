@@ -1,0 +1,26 @@
+body {
+background-color:hsl(0, 0%, 81%);
+}
+a {
+   color:hotpink;
+   background-color: rgb(110, 131, 177);
+   border-color: teal;
+   border:solid 1px slateblue;
+   padding: 15px;
+   margin: 15px;
+   border-radius: 4px ;
+}
+a:link {
+  color: pink;
+  text-decoration:none;
+}
+a:visited {
+  color: white;
+}
+a:active {
+  color: black;
+}
+a:hover {
+  color:white;
+  background-color: rgb(62, 82, 117);
+}

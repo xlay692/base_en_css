@@ -1,0 +1,14 @@
+body {
+background-color:hsl(0, 0%, 81%);
+}
+p{
+color: rgb(0, 0, 0);
+text-align: left;
+text-indent: 40px;
+line-height: 1.4;
+}
+a{
+    text-decoration:none;
+     text-transform: uppercase;
+    letter-spacing: 3px;   
+}
