@@ -1,0 +1,18 @@
+body {
+background-color:#eee;
+}
+
+.box {
+    box-shadow: 0px 1px 4px rgb(102, 95, 95) inset;
+}
+.text {
+    color: white;
+    text-shadow: 0px 1px 2px rgb(214, 127, 127);
+}
+
+
+
+
+
+
+
